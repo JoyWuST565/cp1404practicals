@@ -1,4 +1,4 @@
-from guitar import Guitar
+from guitars import Guitar
 
 
 def main():
